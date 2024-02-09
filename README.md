@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a software developer at PixlBuilders , I'm Proficient in Web Development and Python Developement and my passion are Programming and coding . I am currently engrossed in learning AI/ML . Feel free to reach out me via DM and I'll attempt to respond to any queries . You can also contact me on Discord with the username "Lesnar95"
+As a software developer at PixlBuilders , I'm Proficient in Web Development and Python Developement and my passion are Programming and Gaming . I am currently engrossed in learning AI/ML . Feel free to reach out me via DM and I'll attempt to respond to any queries . You can also contact me on Discord with the username "Lesnar95"
 
 
 ## 🌐 Socials:
