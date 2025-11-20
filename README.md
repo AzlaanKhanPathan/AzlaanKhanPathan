@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>As a software developer at PixlBuilders , I'm Proficient in Web Development and Python Developement and my passion are Programming and Gaming . I am currently engrossed in learning AI/ML . Feel free to reach out me via DM and I'll attempt to respond to any queries . You can also contact me on Discord with the username "Lesnar95" <img align="center" src="https://komarev.com/ghpvc/?username=AzlaanKhanPathan&style=flat-square&color=blue" alt="Profile Count">
+ <br>As a software developer , I'm Proficient in Web Development and Python Developement and my passion are Programming and Gaming . I am currently engrossed in learning AI/ML . Feel free to reach out me via DM and I'll attempt to respond to any queries . You can also contact me on Discord with the username "Lesnar95" <img align="center" src="https://komarev.com/ghpvc/?username=AzlaanKhanPathan&style=flat-square&color=blue" alt="Profile Count">
 
 ## 🌐 Socials:
 [![Discord Presence](https://lanyard.cnrad.dev/api/498401156528209938)](https://discord.com/users/498401156528209938) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azlaan-pathan-62ab1627a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Azlaan_Pathan95)
